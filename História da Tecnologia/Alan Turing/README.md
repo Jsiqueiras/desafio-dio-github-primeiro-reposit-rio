@@ -1,6 +1,6 @@
 # Alan Turing
 
-### Biografia  - [Fonte: eBiografia](https://www.ebiografia.com/alan_turing/#:~:text=Alan Turing)
+### Biografia  - [Fonte: eBiografia](https://www.ebiografia.com/alan_turing/#:~:text=Alan)
 
 Alan Turing (1912-1954) foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial.
 
