@@ -5,8 +5,8 @@ Repositório criado para fins educacionais.
 
 ### Links 
 
-- [Sintaxe Básica Markdown] (https://markdown-guide.readthedocs.io/en/latest/basics.html)
+- [Sintaxe Básica Markdown](https://markdown-guide.readthedocs.io/en/latest/basics.html)
 
-- [DIO] (https://web.dio.me/home)
+- [DIO](https://web.dio.me/home)
 
   
