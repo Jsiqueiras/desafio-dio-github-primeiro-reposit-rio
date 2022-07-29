@@ -20,4 +20,4 @@ Com seu prestígio relegado, Alan Turing morreu aos 41 anos por intoxicação de
 
 Uma campanha de perdão ao matemático começou na internet, exigindo um pedido póstumo por parte do governo britânico. Em 2009, o então primeiro-ministro inglês Gordon Brown, se desculpou em nome do governo, e no dia 24 de dezembro de 2013, Turing foi perdoado postumamente da condenação por prática homossexual, pela rainha Elizabeth II.
 
-Alan Turing faleceu em Wilmslow, Inglaterra, no dia 7 de junho de 1954
+Alan Turing faleceu em Wilmslow, Inglaterra, no dia 7 de junho de 1954.
