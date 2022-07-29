@@ -1,11 +1,7 @@
-# # Desafio DIO
+# # Desafio DIO :smiley: :man
 Bootcamp Linux Experience. Desafio de projeto Git/Github.
 
-Repositório criado para fins educacionais.
-
-### Links 
-
-- [Sintaxe Básica Markdown](https://markdown-guide.readthedocs.io/en/latest/basics.html)
+Repositório criado para fins educacionais. 
 
 - [DIO](https://web.dio.me/home)
 
