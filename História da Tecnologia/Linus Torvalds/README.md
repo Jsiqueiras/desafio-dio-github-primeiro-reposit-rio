@@ -1,6 +1,6 @@
 # Linus Torvalds
 
-### Biografia - [Fonte: IlustraDev]([O Criador do Linux: Conheça Linus Torvalds (A Historia de Linus Torvalds) - IlustraDev](https://ilustradev.com.br/o-criador-do-linux-conheca-linus-torvalds/))
+### Biografia - [Fonte: IlustraDev](https://ilustradev.com.br/o-criador-do-linux-conheca-linus-torvalds/)
 
 #### Linus Torvalds nasceu no dia 28 de dezembro de 1969 na Finlândia, filho dos jornalistas Anna e Nils Torvalds. 
 
